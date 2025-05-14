@@ -14,7 +14,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/crash-delta-official/crash-Delta-Md-v1.git
+cd crash-Delta-Md-v1
 npm install
 npm start

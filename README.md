@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="font-size: 3em; font-weight: bold; color: #5865F2;">🌟 Crash Delta Md 1.0v 🌟</h1>
+  <h1 style="font-size: 3em; font-weight: bold; color: #5865F2;">🌟 <img src="https://i.ibb.co/TFF9G0j/ezgif-com-crop-1.webp" width="200px"/>🌟</h1>
 
   <p><em>A dynamic and feature-rich WhatsApp bot.</em></p>
 

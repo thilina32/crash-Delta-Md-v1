@@ -13,7 +13,7 @@
 
   <p><strong>Made with ❤️ by Your Crash Delta team</strong></p>
 
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Animated coding GIF">
+  <img src="https://i.giphy.com/mEDKNAukt5pR6mwNAV.webp" width="200" alt="Animated coding GIF">
 </div>
 
 ---

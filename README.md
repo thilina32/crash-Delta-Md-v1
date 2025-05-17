@@ -129,7 +129,7 @@ Deploy your bot to your preferred platform:
 1. Fork the Repository
 2. Copy your session ID to `SESSION_ID` or `config.ini`
 3. Configure your credentials
-4. Deploy via platform-specific methods (use `render.yaml`, Railway variables, etc.)
+4. Deploy via platform-specific methods
 
 ---
 
